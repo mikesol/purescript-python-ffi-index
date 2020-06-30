@@ -26,7 +26,16 @@ _repo_url_link_map = {
     "random": r"https://github.com/purescript-python/purescript-random.py",
     "quickcheck": r"https://github.com/purescript-python/purescript-quickcheck.py",
     "record": r"https://github.com/purescript-python/purescript-record.py",
-    "aff": r"https://github.com/purescript-python/purescript-aff.py"
+    "aff": r"https://github.com/purescript-python/purescript-aff.py",
+    "affjax": r"https://github.com/purescript-python/purescript-affjax.py",
+    "argonaut-core": r"https://github.com/purescript-python/purescript-argonaut-core.py",
+    "datetime": r"https://github.com/purescript-python/purescript-datetime.py",
+    "foreign-object": r"https://github.com/purescript-python/purescript-foreign-object.py",
+    "foreign": r"https://github.com/purescript-python/purescript-foreign.py",
+    "web-dom": r"https://github.com/purescript-python/purescript-web-dom.py",
+    "web-events": r"https://github.com/purescript-python/purescript-web-events.py",
+    "web-file": r"https://github.com/purescript-python/purescript-web-file.py",
+    "web-xhr": r"https://github.com/purescript-python/purescript-web-xhr.py",
 }
 
 
