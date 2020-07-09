@@ -39,6 +39,7 @@ _repo_url_link_map = {
     "web-xhr": r"https://github.com/purescript-python/purescript-web-xhr.py",
     "now": r"https://github.com/purescript-python/purescript-now.py",
     "avar": r"https://github.com/purescript-python/purescript-avar.py",
+    "spec": r"https://github.com/purescript-python/purescript-spec.py",
 }
 
 
