@@ -38,6 +38,7 @@ _repo_url_link_map = {
     "web-file": r"https://github.com/purescript-python/purescript-web-file.py",
     "web-xhr": r"https://github.com/purescript-python/purescript-web-xhr.py",
     "now": r"https://github.com/purescript-python/purescript-now.py",
+    "avar": r"https://github.com/purescript-python/purescript-avar.py",
 }
 
 
